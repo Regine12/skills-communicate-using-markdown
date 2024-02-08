@@ -10,3 +10,10 @@
 ```
 print("This is a python code, by R")
 ```
+# Adding a task list
+- [x] Adding Headers
+- [x] Adding Image
+- [x] Adding Code Example
+- [x] Adding Task List
+- [ ] Merging PR
+- [ ] Complete
